@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IgSoares
 - 👀 I’m interested in Data Science, Artificial Intelligence, Machine Learning and Computer Vision
 - 🌱 I’m currently learning Intermediate/Advanced Python, Data Science libraries and Computer Vision/Deep Learning Frameworks, like OpenCV and Pytorch
-- 💞️ I’m looking to collaborate on Computer Vision and Data Science projects
+- 💞️ I’m looking to collaborate in Computer Vision and Data Science projects
 - 📫 You can reach me with a direct message on my LinkedIn (https://www.linkedin.com/in/igor-s-soares/), or via e-mail (igorsoares1210@gmail.com) 
 
 <!---
